@@ -49,3 +49,18 @@ Para garantizar independencia técnica y un dominio real de las herramientas, me
 
 ---
 *Optimizado para el aprendizaje continuo y la excelencia técnica.*
+
+
+# Día 1 / day-01-basics.js
+
+## Qué hice
+Resolví ejercicios de JavaScript básico usando funciones, parámetros, return, if y operadores de comparación.
+
+## Qué se me dificultó
+Me confundí con algunos operadores como =, ===, >= y =>. También tuve dudas sobre cómo ejecutar el archivo con Node desde la terminal.
+
+## Qué entendí
+Entendí que una función no se ejecuta sola, que necesito llamarla con console.log para probarla. También entendí que debo validar primero los casos incorrectos antes de hacer el cálculo principal.
+
+## Qué debo practicar más
+Debo practicar operadores de comparación, validaciones y escribir condiciones más claras.
