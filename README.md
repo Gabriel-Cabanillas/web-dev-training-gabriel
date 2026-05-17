@@ -51,7 +51,7 @@ Para garantizar independencia técnica y un dominio real de las herramientas, me
 *Optimizado para el aprendizaje continuo y la excelencia técnica.*
 
 
-# Día 1 / day-01-basics.js
+# Día 1 / day-01-basics.js 16/05/2026
 
 ## Qué hice
 Resolví ejercicios de JavaScript básico usando funciones, parámetros, return, if y operadores de comparación.
@@ -64,3 +64,21 @@ Entendí que una función no se ejecuta sola, que necesito llamarla con console.
 
 ## Qué debo practicar más
 Debo practicar operadores de comparación, validaciones y escribir condiciones más claras.
+
+
+
+
+
+# Día 2 / day-02-arrays.js 17/05/2026
+
+## Qué hice
+Resolví ejercicios de JavaScript usando arrays de objetos y métodos como filter, find, map, every y some. Trabajé con una lista de residentes para filtrar activos, obtener residentes con deuda, buscar por nombre sin importar mayúsculas o minúsculas, crear un array solo con nombres, verificar condiciones en todos los activos y comprobar si existe alguna deuda mayor a 1000.
+
+## Qué se me dificultó
+Me costó entender cómo usar find junto con una función callback y cómo comparar textos usando toLowerCase. También tuve confusión al principio entre find y filter, porque find devuelve solo el primer elemento que cumple la condición, mientras que filter devuelve varios.
+
+## Qué entendí
+Entendí que filter sirve para obtener varios elementos que cumplen una condición, find para encontrar un solo elemento, map para transformar un array en otro, every para verificar si todos cumplen una condición y some para saber si al menos uno cumple una condición. También entendí mejor cómo los callbacks reciben cada elemento del array individualmente.
+
+## Qué debo practicar más
+Debo practicar más callbacks, nombres claros de variables, comparación de strings, y cuándo usar map, filter, find, some o every según el problema.
